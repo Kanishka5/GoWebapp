@@ -1,7 +1,8 @@
 package routes
 
 import (
-	"../controllers"
+	"github.com/Kanishka5/GoWebapp/controllers"
+
 	"github.com/gin-gonic/gin"
 )
 

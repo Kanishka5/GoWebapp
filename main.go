@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"./models"
-	"./routes"
+	"github.com/Kanishka5/GoWebapp/models"
+	"github.com/Kanishka5/GoWebapp/routes"
 )
 
 func main() {

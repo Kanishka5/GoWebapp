@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"../models"
+	"github.com/Kanishka5/GoWebapp/models"
 	"github.com/gin-gonic/gin"
 )
 
